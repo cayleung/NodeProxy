@@ -1,0 +1,9 @@
+{
+"host":"127.0.0.1",
+"port":1080,
+"parent_host":"",
+"parent_port":0,
+"mask_number":0,
+"in_mask":false,
+"out_mask":false
+}
